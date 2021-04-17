@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning MERN STACK...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-        Through LinkedIn-- https://www.linkedin.com/in/k-piyush-kumar-853b151a1
+           k.piyushkumar2000@gmail.com
+    
 
 <!---
 Piyushkumar99/Piyushkumar99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
