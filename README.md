@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **React & Firebase Development**
+- 🔭 I’m currently working on **Full-Stack Development**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
